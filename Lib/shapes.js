@@ -7,6 +7,7 @@
     
     this.render = function () {
     };
+    this.getSvg; 
   }
   
   function Circle(bgColor, fontColor, text) {

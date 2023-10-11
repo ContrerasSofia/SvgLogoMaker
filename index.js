@@ -16,6 +16,7 @@ let logo;
     function renderShape(){
         var fs = require('fs');
         var content = logo.render();
+        console.log(content);
         content = '<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">'+ content + '</svg>';
         fs.writeFile("logo.svg", content , function(err) {
             if (err) {
