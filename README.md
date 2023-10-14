@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-   ![ScreenShot!](./assets/img/screenShot.png "ScreenShot")
+   ![ScreenShot!](./assets/Walkthrough.webm "ScreenShot")
 
 ## License
 
